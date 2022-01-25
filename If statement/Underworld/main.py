@@ -1,0 +1,6 @@
+
+coin = bool(int(input()))  # don't modify this line, please
+
+if coin is True:
+    print("Welcome to Charon's boat!")
+print("There is no turning back.")
